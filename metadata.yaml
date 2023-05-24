@@ -1,5 +1,8 @@
 _repo: Parnaso-portuguez-moderno-b-precedido-de-um-estudo-da-poesia-moderna-portugueza_70764
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70764-h/images/cover.jpg
 creator:
   author:
     agent_name: Braga, Teófilo
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Te%C3%B3filo_Braga
     - https://pt.wikipedia.org/wiki/Te%C3%B3filo_Braga
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70764#Parnaso-portuguez-moderno-b-precedido-de-um-estudo-da-poesia-moderna-portugueza
 gutenberg_issued: '2023-05-15'
 identifiers:
   gutenberg: '70764'
